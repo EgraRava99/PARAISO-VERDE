@@ -23,9 +23,7 @@ volatile int pulseCount2 = 0;
 float flowRate1 = 0.0;
 float flowRate2 = 0.0;
 
-// Wi-Fi y ThingSpeak
-//const char* ssid[] = { "SONET FLIA FORERO", "FLIA OLAYA ORTIZ", "ParaisoVerde"};
-//const char* password[] = { "131099Arf", "Jaime2024", "12345612"};
+
 
 const char* ssid[] = {"Elsacamialeja", "moto g54 5G_7085"};
 const char* password[] = {"141024cafesita","12345612"};
