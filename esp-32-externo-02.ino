@@ -20,9 +20,6 @@ float humidity = 0.0;
 float temperature = 0.0;
 int soilMoisture = 0;
 
-// Wi-Fi y ThingSpeak
-//const char* ssid[] = {"VARGAS", "Elsacamialeja", "moto g54 5G_7085", "SONET FLIA FORERO", "FLIA OLAYA ORTIZ", "ParaisoVerde"};
-//const char* password[] = {"12105229", "141024cafesita", "12345612", "131099Arf", "Jaime2024", "12345612"};
 
 
 const char* ssid[] = {"Elsacamialeja", "moto g54 5G_7085"};
